@@ -1,0 +1,41 @@
+@import "variables";
+
+.layout-transparent {
+ background: url(../images/bg.jpg) center / cover;
+
+  .mdl-layout__header, .mdl-layout__drawer-button {
+    color: $text-color-primary;
+  }
+
+  .mdl-layout__header {
+    .mdl-layout__header-row {
+      .mdl-navigation {
+        a {
+          color: $text-color-primary * 0.7 !important;
+
+          &:hover, &:focus {
+            color: $text-color-primary !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+.mdl-layout__drawer {
+  background: $bg-color-primary * 1.5;
+  color: $text-color-primary !important;
+  border-right: none;
+
+  .mdl-layout-title {
+    background: $bg-color-primary;
+  }
+
+  nav>a {
+    color: $text-color-primary * 0.8 !important;
+    &:hover {
+      background: $bg-color-secondary !important;
+      color: $text-color-secondary !important;
+    }
+  }
+}

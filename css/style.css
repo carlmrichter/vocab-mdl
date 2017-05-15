@@ -1,0 +1,22 @@
+.layout-transparent {
+  background: url(../images/bg.jpg) center/cover; }
+  .layout-transparent .mdl-layout__header, .layout-transparent .mdl-layout__drawer-button {
+    color: white; }
+  .layout-transparent .mdl-layout__header .mdl-layout__header-row .mdl-navigation a {
+    color: #b3b3b3 !important; }
+    .layout-transparent .mdl-layout__header .mdl-layout__header-row .mdl-navigation a:hover, .layout-transparent .mdl-layout__header .mdl-layout__header-row .mdl-navigation a:focus {
+      color: white !important; }
+
+.mdl-layout__drawer {
+  background: #02293c;
+  color: white !important;
+  border-right: none; }
+  .mdl-layout__drawer .mdl-layout-title {
+    background: #011b28; }
+  .mdl-layout__drawer nav > a {
+    color: #cccccc !important; }
+    .mdl-layout__drawer nav > a:hover {
+      background: #f5e7a0 !important;
+      color: #212121 !important; }
+
+/*# sourceMappingURL=style.css.map */

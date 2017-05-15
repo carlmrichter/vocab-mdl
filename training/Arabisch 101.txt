@@ -1,0 +1,7 @@
+Deutsch;Arabisch
+Vokabel;كلمة
+Guten Tag;يوم جيد
+Wetter;حالة الطقس
+Hallo;مرحبا
+ich;أنا
+Gott;الله
