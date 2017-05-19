@@ -1,0 +1,570 @@
+abandon;aufgeben, einstellen, abbrechen, verlassen
+abstract;abstrakt, theoretisch, schwerverständlich
+academy;Akademie
+access;Zugang, Zutritt, Zugriff
+accommodate;unterbringen, einquartieren, anpassen
+accompany;begleiten
+accumulate;(sich) ansammeln, (sich) anhäufen, sich anreichern, akkumulieren
+accurate;genau, richtig, exakt, akkurat, fehlerfrei
+achieve ;erreichen, erlangen
+acknowledge;anerkennen, bestätigen, zugeben
+acquire;erwerben, erlangen, in den Besitz kommen, sich aneignen
+adapt;sich anpassen (an), anpassen, sich gewöhnen
+adequate;ausreichend, hinreichend, genügend, passend, angemessen
+adjacent;angrenzend, benachbart, anliegend
+adjust;einstellen, verstellen, berichtigen, anpassen
+administrate;führen, verwalten, leisten
+adult;erwachsen
+advocate;befürworten, eintreten für, verteidigen
+affect;beeinflussen, betreffen, in Mitleidenschaft ziehen, angreifen, befallen
+aggregate;anhäufen, ansammeln, vereinigen
+aid;Hilfe, Unterstützung
+albeit;obgleich, obschon, wenn auch
+allocate;zuteilen, zuweisen
+alter;abändern, ändern, verändern, umändern, sich ändern
+alternative;alternative, andere
+ambiguous;zweideutig, mehrdeutig, unklar, doppeldeutig
+amend;(ab)ändern, ergänzen, verbessern
+analogy;Analogie, Vergleich
+analyse;analysieren, untersuchen, auswerten
+annual;(all)jährlich, 
+anticipate;voraussehen, erwarten, antizipieren, vorausahnen
+apparent;anscheinend, offenbar, sichtbar, scheinbar
+append;anfügen, anhängen, hinzufügen
+appreciate;anerkennen, schätzen, begrüßen
+approach;Zutritt, Zugang, Annäherung, Methode, Verfahren
+appropriate;angemessen, passend, entsprechend, angebracht
+approximate;annähernd, annähernd gleich, circa, ungefähr
+arbitrary;beliebig, willkürlich, unbegründet
+area;Gebiet, Bereich, Gegend, Fläche
+aspect;Aspekt, Gesichtspunkt
+assemble;montieren, herstellen, zusammensetzen, (sich) versammeln
+assess;bemessen, beurteilen, bewerten
+assign;beauftragen, zuordnen, zuweisen
+assist;aushelfen, beistehen, unterstützen
+assume;annehmen, übernehmen, vermuten
+assure;versichern, sichern
+attach;anbringen, ankleben, anhängen
+attain;erreichen, erlangen
+attitude;Einstellung, Haltung, Standpunkt
+attribute;beimessen, zuschreiben, zurückführen auf
+author;Autor, Verfasser
+authority;Befugnis, Berechtigung, Vollmacht
+automate;automatisieren
+available;verfügbar, erhältlich
+aware;bewusst, wissend, unterrichtet, gewahr
+behalf;für
+benefit;profitieren, Nutzen ziehen (aus)
+bias;Vorliebe, Neigung
+bond;Bindung, Haftung
+brief;kurz 
+bulk;Großteil, Masse
+capable;fähig, geeignet
+capacity;Kapazität, Kompetenz, 
+category;Kategorie, Gattung, 
+cease;aufhören, einstellen
+challenge;Herausforderung, Problem
+channel;bahnen, kanalisieren, leiten, lenken
+chapter;Kapitel, Teil
+chart;Diagramm, Grafik
+chemical;chemisch
+circumstance;Umstand, Verhältnisse
+cite;zitieren
+civil;bürgerlich, zivil
+clarify;aufklären, verdeutlichen
+classic;klassisch
+clause;Satz, Klausel, Abschnitt
+code;Kode
+coherent;folgerichtig, schlüssig, stimmig
+coincide;übereinstimmen, überschneiden
+collapse;einstürzen, scheitern
+colleague;Kollege
+commence;einleiten, beginnen, 
+comment;kommentieren
+commission;Kommission, Komitee, Ausschuss, Vergütung, Anzahlung
+commit;sich verpflichten, sich festlegen
+commodity;Ware
+communicate;kommunizieren
+community;Gemeinde, Gesellschaft
+compatible;austauschbar, vereinbar, verträglich
+compensate;ausgleichen, entschädigen
+compile;aufstellen, zusammentragen
+complement;ergänzen
+complex;kompliziert, vielschichtig
+component;Bestandteil
+compound;zusammengesetzt
+comprehensive;umfassend
+comprise;beinhalten, einschließen
+compute;berechnen
+conceive;ausdenken, begreifen
+concentrate;konzentrieren, verstärken
+concept;Entwurft
+conclude;beenden, folgern
+concurrent;gleichzeitig, übereinstimmend
+conduct;durchführen, leiten
+confer;gewähren, verleihen, sich besprechen
+confine;abgrenzen, beschränken
+confirm;bekräftigen, bestärken
+conflict;Auseinandersetzung
+conform;(sich) anpassen, übereinstimmen
+consent;Zustimmung
+consequent;folgend,
+considerable;ansehnlich, deutlich
+consist;bestehen
+constant;(be)ständig, regelmäßig
+constitute;bilden, festlegen
+constrain;beschränken
+construct;konstruieren, errichten
+consult;konsultieren, beraten
+consume;verbrauchen, konsumieren
+contact;kontaktieren
+contemporary;zeitgemäß, zeitgenössisch
+context;Kontext
+contract;Abkommen, Vertrag
+contradict;bestreiten, widersprechen
+contrary;entgegengesetzt
+contrast;gegenüberstellen, vergleichen
+contribute;beitragen
+controversy;Auseinandersetzung
+convene;zusammenrufen
+converse;Gegenteil, Umkehrung
+convert;anpassen, umformen
+convince;überreden, überzeugen, verurteilen zu
+cooperate;mitwirken, zusammenarbeiten
+coordinate;abstimmen, koordinieren
+core;Kern
+corporate;gemeinsam, Unternehmens-
+correspond;sich entsprechen, übereinstimmen
+couple;Paar
+create;entwerfen
+credit;Verdienst, Kredit
+criteria;Kriterium, Merkmal
+crucial;entscheidend, kritisch
+culture;Kultur, Bildung
+currency;Währung
+cycle;Takt, Periode
+data;Angaben, Daten
+debate;Beratung, Debatte
+decade;Dekade
+decline;Rückgang
+deduce;ableiten, folgern
+define;abgrenzen, definieren
+definite;bestimmt, eindeutig
+demonstrate;demonstrieren
+denote;andeuten, anzeigen, bedeuten, bezeichnen
+deny;leugnen, verweigern
+depress;deprimieren, herabsetzen
+derive;ableiten
+design;entwerfen
+despite;trotz
+detect;aufdecken
+deviate;ablenken, abweichen
+device;Gerät
+devote;hingeben
+differentiate;ableiten
+dimension;Größe
+diminish;abnehmen
+discrete;separat
+discriminate;benachteiligen, unterscheiden
+displace;entlassen, verlagern, vertreiben
+display;zeigen, darstellen
+dispose;abfertigen, beseitigen
+distinct;deutlich, verschieden
+distort;entstellen, verzerren
+distribute;austeilen
+diverse;unterschiedlich
+document;Dokument
+domain;Gebiet
+domestic;heimisch, häuslich
+dominate;beherrschen
+draft;Entwurf, Skizze
+drama;Drama
+duration;Dauer, Laufzeit
+dynamic;dynamisch
+economy;Ökonomie
+edit;aufbereiten, bearbeiten, herausgeben
+element;Bestandteil
+eliminate;ausschalten
+emerge;abzeichnen, aufkommen
+emphasis;Betonung, Schwerpunkt
+empirical;empirisch
+enable;aktivieren, ermöglichen
+encounter;antreffen
+energy;Energie
+enforce;durchführen, durchsetzen
+enhance;fördern, verbessern
+enormous;enorm, gewaltig
+ensure;sichern, sicherstellen
+entity;Datensatz, Einheit
+environment;Milieu, Umwelt
+equate;gleichen
+equip;ausrüsten
+equivalent;entsprechend
+erode;wegfressen, erodieren
+error;Defekt
+establish;etablieren
+estate;Eigentum
+estimate;abschätzen, beurteilen
+ethic;Ethik
+ethnic;ethnisch, Volks-
+evaluate;auswerten, beurteilen
+eventual;letztendlich, schließlich
+evident;offensichtlich
+evolve;(sich) entwickeln, entstehen (aus), entfalten
+exceed;hinausgehen über, übersteigen
+exclude;ausschließen, ausgrenzen
+exhibit;aufweisen, vorführen, ausstellen
+expand;(sich) ausdehnen, (sich) ausweiten
+expert;Fachmann, Experte
+explicit;ausdrücklich, detailliert, explizit
+exploit;ausbeuten, ausschöpfen, verwerten
+export;exportieren
+expose;aussetzen, belichten, entblößen
+external;äußerlich, außen, extern
+extract;entnehmen, extrahieren, exzerpieren, gewinnen
+facilitate;erleichtern, fördern
+factor;Faktor, Gegebenheit
+feature;(äußere) Erscheinung, Charakterzug, Merkmal
+federal;Bundes-, bundesstaatlich
+fee;Entgelt, Gebühr, Honorar
+file;ablegen, archivieren, feilen
+final;endgültig, letzte(r), Schluss-
+finance;finanzieren
+finite;begrenzt, endlich
+flexible;flexibel, beweglich, anpassungsfähig
+fluctuate;fluktuieren, schwanken
+focus;konzentrieren, scharf stellen
+format;Format, Aufmachung
+formula;Bauart, Formel, Rezept
+forthcoming;bevorstehend, herannahend, mitteilsam
+found;gründen, errichten, schmelzen
+foundation;Fundament, Gründung, Grundlage, Stiftung
+framework;Bezugssystem, Gerüst, Rahmen
+function;Funktion, Aufgabe, Aufgabenbereich, Feier
+fund;Fonds, Kapital
+fundamental;fundamental, grundlegend, wichtig
+furthermore;außerdem, darüber hinaus, des Weiteren, zudem
+gender;Genus, Geschlecht
+generate;erzeugen, generieren
+generation;Generation, Erzeugung
+globe;Globus, Kugel
+goal;Tor, Zielsetzung, Zweck
+grade;Grad, Dienstgrad, Klassenstufe, Note
+grant;bewilligen, gestatten
+guarantee;Garantie, Gewährleistung
+guideline;Leitfaden, Richtlinie
+hence;ab jetzt, daher
+hierarchy;Hierarchie, Rangordnung
+highlight;hervorheben, markieren, beleuchten
+hypothesis;Hypothese
+identical;identisch
+identify;ermitteln, identifizieren
+ideology;Ideologie
+ignorant;dumm, ungebildet
+illustrate;veranschaulichen, erläutern, illustrieren
+image;Bild, Erscheinungsbild, Abbild
+immigrate;einwandern, zuwandern
+impact;Aufprall, Auswirkung
+implement;einführen, umsetzen
+implicate;einbeziehen, implizieren
+implicit;impliziert, implizit
+imply;implizieren, bedeuten, unterstellen
+impose;auferlegen, verhängen
+incentive;Anreiz, Bonus
+incidence;Vorfall, Häufigkeit, Dauer, Vorkommen
+incline;kippen, neigen, tendieren
+income;Einkommen, Einkünfte
+incorporate;aufnehmen, eingliedern, als Aktiengesellschaft eintragen
+index;Verzeichnis, Register, Kennziffer
+indicate;andeuten, hinweisen
+individual;einzeln, persönlich, individuell
+induce;hervorrufen, induzieren
+inevitable;unabwendbar, unvermeidlich
+infer;ableiten, folgern, schließen
+infrastructure;Infrastruktur
+inherent;angeboren, innewohnend
+inhibit;blockieren, hemmen
+initial;Anfangs-, initial
+initiate;auslösen, initiieren
+injure;beschädigen, verletzen
+innovate;Neuerungen einführen
+input;Eingabe, Einsatz, Investition
+insert;einfügen, einsetzen, einstecken
+insight;Einblick, Einsicht, Erkenntnis
+inspect;überprüfen, inspizieren, besichtigen
+instance;Beispiel, Vorgang, Instanz
+institute;Einrichtung, Institut
+instruct;anleiten, anweisen, unterrichten
+integral;Integral
+integrate;einbinden, verflechten, integrieren
+integrity;Anstand, Intaktheit, Integrität
+intelligent;klug, intelligent
+intense;anstrengend, heftig
+interact;wechselwirken, umgehen, interagieren
+intermediate;dazwischen liegend, zwischen, Mittel-
+internal;intern, Innen-
+interpret;deuten, dolmetschen, übersetzen, interpretieren
+interval;Abstand, Bereich, Interval, Pause
+intervene;dazwischentreten, eingreifen, intervenieren
+intrinsic;immanent, innewohnend, intrinsisch
+invest;investieren, anlegen
+investigate;erforschen, ermitteln, untersuchen
+invoke;anflehen, berufen auf
+involve;einbinden, beinhalten, involvieren
+isolate;eingrenzen, isolieren, trennen
+issue;Angelegenheit, Ausgabe, Problem, Thema
+item;Artikel, Eintrag, Objekt
+job;Job, Arbeit, Beruf, Stelle
+journal;Journal, Kassenbuch, Tagebuch, Zeitschrift
+justify;justieren, rechtfertigen
+label;Etikett, Beschriftung, Label
+labour;Anstrengung, Arbeitskraft, Wehen, Arbeiter
+layer;Ebene, Schicht
+lecture;Vortrag, Vorlesung
+legal;legal, rechtlich, gesetzmäßig
+legislate;Gesetze erlassen
+levy;eintreiben, erheben
+liberal;freiheitlich, liberal, tolerant
+licence;Genehmigung, Zulassung, Lizenz
+likewise;ebenfalls, ebenso, gleichermaßen
+link;Bindung, Bindeglied, Verbindung, Verknüpfung
+locate;lokalisieren, ausfindig machen, anordnen
+logic;Logik
+maintain;aufrechterhalten, warten, bewahren
+major;bedeutend, groß, hauptsächlich, wichtig
+manipulate;beeinflussen, manipulieren, bedienen
+manual;Anleitung, Handbuch, Leitfaden
+margin;Begrenzung, Rand, Spielraum
+mature;ausgereift, mündig, reif
+maximise;maximieren
+mechanism;Mechanismus, Vorrichtung
+media;Medien, Presse
+mediate;schlichten, vermitteln
+medical;ärztlich, medizinisch
+medium;Datenträger, Mitte, Hilfsmittel, Medium
+mental;mental, seelisch, psychisch, übergeschnappt
+method;Methode, Technik, Verfahren
+migrate;umziehen, fortziehen, migrieren
+military;Militär
+minimal;minimal
+minimise;verniedlichen, verringern, verkleinern, minimieren
+minimum;mindest, minimal
+ministry;geistliches Amt, Ministeramt, Ministerium
+minor;geringfügig, Moll, minderjährig
+mode;Modus
+modify;abwandeln, modifizieren
+monitor;überwachen
+motive;Motiv
+mutual;gegenseitig, gemeinsam
+negate;negieren, verneinen
+network;Netzwerk
+neutral;neutral
+nevertheless;gleichwohl, trotzdem, nichtsdestoweniger
+nonetheless;gleichwohl, trotzdem, nichtsdestoweniger
+norm;Norm, Maßstab, Standard
+normal;normal, regulär, senkrecht
+notion;Auffassung, Gedanke, Vorstellung
+notwithstanding;dennoch, trotz, ungeachtet
+nuclear;nuklear, Atom-, Kern-
+objective;Zielsetzung, Zielvorstellung
+obtain;bekommen, beschaffen, erlangen
+obvious;augenfällig, offensichtlich
+occupy;beschäftigen, besetzen, belegen
+occur;auftreten, geschehen
+odd;gelegentlich, seltsam, ungerade
+offset;Versatz, Verschiebung
+ongoing;anhaltend, laufend, permanent
+option;Option, Wahl, Variante
+orient;orientieren
+outcome;Ausgang, Ergebnis, Resultat
+output;Ertrag, Produktion, Ausstoß, Datenausgabe
+overall;allgemein, gesamt, insgesamt
+overlap;Überlappung, Überschneidung
+overseas;ausländisch, überseeisch
+panel;Ausschuss, Platte
+paradigm;Paradigma
+paragraph;Paragraf, Absatz
+parallel;entsprechend, parallel
+parameter;Parameter, Kennziffer
+participate;teilnehmen, beteiligen, partizipieren
+partner;Teilhaber, Partner
+passive;leidend, passiv, zinslos
+perceive;bemerken, wahrnehmen
+percent;Prozent
+period;Zeitspanne, Periode, Unterrichtsstunde, Punkt
+persist;beharren, fortbestehen
+perspective;Perspektive, Ansicht
+phase;Phase, Stadium
+phenomenon;Phänomen
+philosophy;Philosophie
+physical;körperlich, physikalisch, physisch
+plus;plus, außerdem, zuzüglich
+policy;Politik, Verfahrensweise
+portion;Portion, Anteil
+pose;aufwerfen, posieren
+positive;positiv, lebensbejahend
+potential;möglich, potentiell
+practitioner;Fachmann, Praktiker, praktischer Arzt
+precede;voranstellen, vorausgehen
+precise;präzise
+predict;prognostizieren, vorhersagen
+predominant;beherrschend, vorherrschend, überwiegend
+preliminary;vorbereitend, vorläufig
+presume;annehmen, unterstellen, voraussetzen
+previous;vorhergehend, bisherig, früher
+primary;primär
+prime;prima, erstklassig
+principal;Haupt-
+principle;Grundsatz, Prinzip
+prior;älter, bevor, vorher
+priority;Priorität, Dringlichkeit
+proceed;weitergehen, weiterfahren, übergehen zu, vorgehen
+process;Vorgang, Prozess
+professional;beruflich, fachmännisch, professionell
+prohibit;verbieten
+project;Projekt, Vorhaben, Entwurf
+promote;fördern, befördern, werben für
+proportion;Anteil, Proportion, Verhältnis
+prospect;Aussicht, Erwartung, Interessent
+protocol;Protokoll
+psychology;Psychologie
+publication;Veröffentlichung, Publikation
+publish;veröffentlichen, publizieren, herausbringen
+purchase;anschaffen, erwerben
+pursue;verfolgen, nachgehen
+qualitative;qualitativ
+quote;Zitat, Kursnotierung, Kaufangebot
+radical;radikal
+random;zufällig, wahllos
+range;Bereich, Umfang, Auswahl, Reichweite
+ratio;Verhältnis, Quotient
+rational;rational, vernünftig
+react;reagieren
+recover;wiedererlangen, sich erholen, wiederherstellen
+refine;verfeinern, kultivieren, raffinieren
+regime;Regime, Herrschaft, System
+region;Region, Bereich
+register;anmelden, eintragen, registrieren
+regulate;vorschreiben, regulieren
+reinforce;verstärken, bekräftigen, befestigen
+reject;abweisen, verwerfen
+relax;entspannen, ausruhen
+release;freilassen, freisetzen, loslassen, herausbringen
+relevant;relevant, maßgeblich, sachbezogen
+reluctance;Widerwille, Abneigung
+rely on;verlassen auf
+remove;beseitigen, entfernen
+require;verlangen, voraussetzen
+research;Forschung
+reside;wohnen, residieren
+resolve;lösen, klären, beschließen
+resource;Ressource, Bezugsquelle, Reserve, Rohstoff
+respond;reagieren, antworten
+restore;restaurieren, wiederherstellen, zurückgeben
+restrain;zurückhalten, bändigen, einschränken
+restrict;begrenzen, beschränken, drosseln
+retain;behalten, zurückhalten, stauen
+reveal;offenbaren, enthüllen
+revenue;Erlös, Staatseinkünfte, Steuereinkommen, Finanzamt
+reverse;umgekehrt, entgegengesetzt
+revise;revidieren, überarbeiten, überprüfen
+revolution;Revolution
+rigid;rigide, starr, unnachgiebig
+role;Aufgabe, Rolle
+route;Route
+scenario;Szenario
+schedule;Zeitplan, Fahrplan, Programm
+scheme;Schema, System, Intrige
+scope;Geltungsbereich, Reichweite, Spielraum
+section;Abteilung, Sektion, Abschnitt
+sector;Bezirk, Branche, Kreisausschnitt, Sektor
+secure;sicher
+seek;erstreben, suchen
+select;auswählen, erlesen, markieren
+sequence;Folge, Reihe, Sequenz
+series;Reihe, Serie
+sex;Geschlecht, Sex
+shift;Arbeitsschicht, Verschiebung
+significant;aussagekräftig, erheblich, signifikant
+similar;ähnlich, gleichartig
+simulate;nachbilden, simulieren, vortäuschen
+site;Ort, Stelle, Internetseite
+so-called;sogenannt
+sole;alleinig, einzeln
+somewhat;etwas
+source;Quelle
+specific;spezifisch, speziell, konkret
+specify;spezifizieren, nennen
+sphere;Einflussbereich, Kugel, Sphäre
+stable;stabil, dauerhaft, ausgeglichen
+statistic;Statistik, Kenngröße
+status;Stand, Rang, Status
+straightforward;aufrichtig, direkt, geradlinig, unkompliziert
+strategy;Strategie
+stress;Anspannung, Belastung, Betonung, Stress
+structure;Struktur, Gefüge, Komplex
+style;Stil, Ausführung, Weise
+submit;einreichen, sich fügen, vorlegen
+subordinate;untergeordnet, unterstellt, zweitrangig
+subsequent;anschließend, nachfolgend, später
+subsidy;Subvention
+substitute;auswechseln, ersetzen, vertreten
+successor;Nachfolger
+sufficient;ausreichend
+sum;Summe, Betrag
+summary;Auswertung, Resümee, Zusammenfassung
+supplement;Aufschlag, Beilage, Ergänzung, Zusatz
+survey;Umfrage, Vermessung, Untersuchung
+survive;überleben, überstehen
+suspend;unterbrechen, aufheben, suspendieren
+sustain;erhalten, fortsetzen, stützen, tragen
+symbol;Symbol
+tape;Band, Kassette, Klebeband
+target;Zielscheibe, Ziel
+task;Anwendung, Aufgabe, Auftrag, Schularbeit
+team;Mannschaft, Team
+technical;technisch
+technique;Technik, Verfahren, Methode
+technology;Technologie, Verfahrenstechnik
+temporary;befristet, temporär, vorübergehend
+tense;Tempus, Zeit
+terminate;abbrechen, abschließen, beenden, kündigen
+text;Text
+theme;Leitmotiv, Motiv, Thema
+theory;Theorie
+thereby;dabei, dadurch
+thesis;Dissertation, Doktorarbeit, These, Abschlussarbeit
+topic;Thema
+trace;Spur
+tradition;Tradition
+transfer;transferieren, übergeben, übermitteln, weiterleiten
+transform;transformieren, umformen, umwandeln, verwandeln
+transit;Durchfahrt, Transit, Überfahrt
+transmit;senden, übertragen, übermitteln
+transport;befördern, transportieren
+trend;Entwicklung, Tendenz, Trend
+trigger;auslösen, einleiten, triggern
+ultimate;äußerst, endgültig, ultimativ
+undergo;sich unterziehen, durchmachen
+underlie;zu Grunde liegen
+undertake;vornehmen, übernehmen, unterfangen, unternehmen
+uniform;einheitlich, gleichförmig, gleichmäßig
+unify;vereinigen, vereinen, vereinheitlichen
+unique;einzigartig, einmalig
+utilise;nutzen, verwenden, verwerten
+valid;gültig, rechtskräftig, stichhaltig, triftig
+vary;verändern, variieren, abwandeln
+vehicle;Fahrzeug, Vehikel
+version;Version, Darstellung, Fassung
+via;über, via
+violate;missachten, übertreten, vergewaltigen, verletzen
+virtual;faktisch, fiktiv, quasi, virtuell
+visible;sichtbar
+vision;Sehkraft, Weitblick, Vision
+visual;bildlich, sichtbar, visuell
+volume;Band, Lautstärke, Volumen
+voluntary;freiwillig
+welfare;Wohl, Wohlergehen, Sozialhilfe, Wohlfahrt
+whereas;wohingegen
+whereby;wodurch, womit, wonach
+widespread;weitverbreitet

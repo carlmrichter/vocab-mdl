@@ -1,0 +1,9 @@
+Banane;banan
+Apfel;eple
+Orange;orange
+Pfirsich;fersken
+Ananas;ananas
+Kirsche;kirsebær
+Pflaume;plomme
+Aprikose;aprikos
+Himbeere;bringebær

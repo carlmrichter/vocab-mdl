@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat|Roboto');
+
+@mixin transition($args...) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin transform($args...) {
+  -webkit-transform: $args;
+  -moz-transform: $args;
+  -ms-transform: $args;
+  -o-transform: $args;
+  transform: $args;
+}
+
+@mixin min-desktop-nav {
+  @media (min-width: $min-desktop-nav) {
+    @content;
+  }
+}
+
+@mixin font-primary {
+  font-family: "Montserrat", "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+@mixin font-secondary {
+  font-family: "Lato", "Roboto", "Helvetica", "Arial", sans-serif;
+}

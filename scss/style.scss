@@ -1,14 +1,52 @@
 @import "variables";
+@import "mixins";
+
+
+//body {
+//  @include font-secondary;
+//}
+
+h1, h2, h3, h4, h5, h6, .mdl-navigation__link {
+  @include font-primary;
+}
+
+.mdl-grid {
+  max-width: 1200px;
+}
 
 .layout-transparent {
  background: url(../images/bg.jpg) center / cover;
 
-  .mdl-layout__header, .mdl-layout__drawer-button {
-    color: $text-color-primary;
+  .mdl-layout__drawer-button {
+    color: inherit;
+    background-color: transparent;
+  }
+
+  .mdl-layout-title {
+    @include font-primary;
   }
 
   .mdl-layout__header {
+    color: $text-color-primary;
+    @include transition(background-color $transition-normal ease, box-shadow $transition-normal ease);
+    background-color: transparent;
+    box-shadow: none;
+
     .mdl-layout__header-row {
+
+
+      @include min-desktop-nav {
+        padding-left: 16px;
+        padding-right: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        max-width: 1216px;
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+      }
+
       .mdl-navigation {
         a {
           color: $text-color-primary * 0.7 !important;
@@ -37,5 +75,47 @@
       background: $bg-color-secondary !important;
       color: $text-color-secondary !important;
     }
+  }
+}
+
+.mdl-card {
+
+  background-color: $bg-color-secondary;
+  .mdl-card__actions {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+
+    a {
+      color: $bg-color-primary;
+    }
+  }
+
+  .mdl-card__title {
+    .mdl-card__title-text {
+      padding-right: 35px;
+    }
+  }
+}
+
+#fab-upload {
+  z-index: 1;
+  //background-color: $bg-color-secondary;
+  //color: $text-color-secondary;
+  background-color: $bg-color-primary * 4;
+
+}
+
+.not-visible {
+  display: none;
+}
+
+.row {
+  display: inline-flex;
+  vertical-align: middle;
+
+  span {
+    padding-top: 3px;
+    margin-left: 8px;
   }
 }

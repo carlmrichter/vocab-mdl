@@ -7,64 +7,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link href="https://fonts.googleapis.com/css?family=Lato|Raleway:400,800&amp;subset=latin-ext" rel="stylesheet">
     <link rel="stylesheet" href="css/material.amber-indigo.min.css" />
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.min.css">
 </head>
-<body>
+<body id="body">
 
-<div class="layout-transparent mdl-layout mdl-js-layout">
-    <header class="mdl-layout__header mdl-layout__header--transparent">
+<div class="layout-transparent mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--no-desktop-drawer-button">
+    <header id="header" class="mdl-layout__header">
         <div class="mdl-layout__header-row">
             <!-- Title -->
             <span class="mdl-layout-title">VocabTrainer</span>
             <!-- Add spacer, to align navigation to the right -->
             <div class="mdl-layout-spacer"></div>
             <!-- Navigation -->
-            <nav class="mdl-navigation">
-                <a class="mdl-navigation__link" href="">Lektionen</a>
+            <nav class="mdl-navigation mdl-layout--large-screen-only">
+                <a class="mdl-navigation__link" href="">Lessons</a>
                 <a class="mdl-navigation__link" href="">Training</a>
-                <a class="mdl-navigation__link" href="">Statistik</a>
-                <a class="mdl-navigation__link" href="">Einstellungen</a>
+                <a class="mdl-navigation__link" href="">Statistics</a>
+                <a class="mdl-navigation__link" href="">Settings</a>
             </nav>
         </div>
     </header>
     <div class="mdl-layout__drawer">
         <span class="mdl-layout-title">VocabTrainer</span>
         <nav class="mdl-navigation">
-            <a class="mdl-navigation__link" href="">Lektionen</a>
+            <a class="mdl-navigation__link" href="">Lessons</a>
             <a class="mdl-navigation__link" href="">Training</a>
-            <a class="mdl-navigation__link" href="">Statistik</a>
-            <a class="mdl-navigation__link" href="">Einstellungen</a>
+            <a class="mdl-navigation__link" href="">Statistics</a>
+            <a class="mdl-navigation__link" href="">Settings</a>
         </nav>
     </div>
     <main class="mdl-layout__content">
-        <div class="mdl-grid">
-            <div class="mdl-cell mdl-cell--4-col card-lesson mdl-card mdl-shadow--2dp">
-                <div class="mdl-card__title">
-                    <h2 class="mdl-card__title-text">Welcome</h2>
-                </div>
-                <div class="mdl-card__supporting-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Mauris sagittis pellentesque lacus eleifend lacinia...
-                </div>
-                <div class="mdl-card__actions mdl-card--border">
-                    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                        Get Started
-                    </a>
-                </div>
-                <div class="mdl-card__menu">
-                    <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
-                        <i class="material-icons">share</i>
-                    </button>
-                </div>
-            </div>
+        <div id="grid" class="mdl-grid">
+
         </div>
     </main>
 </div>
 
+<!-- fab for uploading new files -->
+<button id="fab-upload" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--fab mdl-button--accent mdl-shadow--4dp">
+    <i class="material-icons">file_upload</i>
+</button>
+
+<!-- snackbar for cookie message -->
+<div id="snackbar-cookie" class="mdl-js-snackbar mdl-snackbar">
+    <div class="mdl-snackbar__text"></div>
+    <button class="mdl-snackbar__action" type="button"></button>
+</div>
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
 <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+<script src="js/index.min.js"></script>
 </body>
 </html>

@@ -1,0 +1,8 @@
+banana;plátano
+apple;manzana
+orange;naranja
+peach;melocotón
+pineapple;piña
+cherry;Cereza
+plum;ciruela
+apricot;albaricoque, damasco

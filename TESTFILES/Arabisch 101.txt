@@ -1,4 +1,3 @@
-Deutsch;Arabisch
 Vokabel;كلمة
 Guten Tag;يوم جيد
 Wetter;حالة الطقس
